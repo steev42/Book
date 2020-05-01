@@ -1,0 +1,76 @@
+{
+  "OpeningSegments": [
+    {
+      "isOpener": true,
+      "isCloser": false,
+      "minSeconds": 5,
+      "maxSeconds": 30,
+      "minWorkersOffense": 1,
+      "maxWorkersOffense": 1,
+      "minWorkersDefense": 1,
+      "maxWorkersDefense": 1,
+      "offensiveMomentumShift": 0,
+      "defensiveMomentumShift": 0,
+      "offensiveStaminaShift": 0,
+      "defensiveStaminaShift": 0,
+      "offensiveInjuryRisk": 0,
+      "defensiveInjuryRisk": 0,
+      "playByPlay": [ "Match Opener", "The competitors open the match.", "The bell rings and the match begins." ]
+    }
+  ],
+  "ClosingSegments": [
+    {
+      "isOpener": false,
+      "isCloser": true,
+      "minSeconds": 5,
+      "maxSeconds": 30,
+      "minWorkersOffense": 1,
+      "maxWorkersOffense": 1,
+      "minWorkersDefense": 1,
+      "maxWorkersDefense": 1,
+      "offensiveMomentumShift": 0,
+      "defensiveMomentumShift": 0,
+      "offensiveStaminaShift": 0,
+      "defensiveStaminaShift": 0,
+      "offensiveInjuryRisk": 0,
+      "defensiveInjuryRisk": 0,
+      "playByPlay": [ "Match ends!", "The referee calls for the bell.", "1-2-3 and that's a pinfall." ]
+    }
+  ],
+  "MatchSegments": [
+    {
+      "isOpener": false,
+      "isCloser": false,
+      "minSeconds": 5,
+      "maxSeconds": 30,
+      "minWorkersOffense": 1,
+      "maxWorkersOffense": 1,
+      "minWorkersDefense": 1,
+      "maxWorkersDefense": 1,
+      "offensiveMomentumShift": 0,
+      "defensiveMomentumShift": 0,
+      "offensiveStaminaShift": 0,
+      "defensiveStaminaShift": 0,
+      "offensiveInjuryRisk": 0,
+      "defensiveInjuryRisk": 0,
+      "playByPlay": [ "This is an example of the first segment.", "First time around the horn.", "I am number one." ]
+    },
+    {
+      "isOpener": false,
+      "isCloser": false,
+      "minSeconds": 5,
+      "maxSeconds": 30,
+      "minWorkersOffense": 1,
+      "maxWorkersOffense": 1,
+      "minWorkersDefense": 1,
+      "maxWorkersDefense": 1,
+      "offensiveMomentumShift": 0,
+      "defensiveMomentumShift": 0,
+      "offensiveStaminaShift": 0,
+      "defensiveStaminaShift": 0,
+      "offensiveInjuryRisk": 0,
+      "defensiveInjuryRisk": 0,
+      "playByPlay": [ "Second type of segment.", "Hold up just a second.", "Second place, first loser." ]
+    }
+  ]
+}
